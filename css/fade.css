@@ -26,7 +26,7 @@ body {
     to {opacity: 1;}
  }
 
- img{
+ .img{
     width: 100px;
     height: 100px;
  }
