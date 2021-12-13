@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.div-logo{
+    text-align: center;
+    margin: 15vh 0vw;
+}
+.intro-logo{
+    width: 30rem;
+    height: 18rem;
+}
+#topMenu { 
+     width: 100vw; 
+     padding-top: 1vh;
+} 
+#topMenu ul li { 
+    list-style: none; 
+    color: black;
+    display: inline-block;
+    line-height: 4vh; 
+    vertical-align: middle;
+    text-align: center; 
+} 
+#topMenu .menuLink { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 10vw; 
+    font-size: 100%; 
+    font-weight: 500;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    border: 3px solid white;
+    border-left: none;
+    border-right: none;
+} 
+#topMenu .menuLink:hover {
+    border: 3px solid black;
+    border-left: none;
+    border-right: none;
+}
+#topMenu img{
+    width: 5rem;
+    height: 3rem;
+    padding: 0;
+    margin-right: 18vw;
+}
+#form{
+    align-content: center;
+    margin-bottom: 8vh;
+}
+#form .form1{
+    background-color: lightblue;
+    width: 60.2vw;
+    height: 15rem;
+}
+#form .form2{
+    background-color: lightcoral;
+    width: 28vw;
+    height: 17.8rem;
+}
+#form .form3{
+    background-color: lightseagreen;
+    width: 32vw;
+    height: 2.6rem;
+}
+#form .form4{
+    background-color: lightgreen;
+    width: 15.8vw;
+    height: 15rem;
+}
+table {
+    margin-top: 5vh;
+    margin-left: 20.5vw;
+}
