@@ -1,4 +1,4 @@
-(function () { 
+function width() { 
     const txt = document.querySelector('.windowW');
     const getWidth = function(){
       let width = window.innerWidth;
@@ -10,4 +10,4 @@
     
     txtWidth();
     window.addEventListener('resize', txtWidth);
-  })()
+  }
