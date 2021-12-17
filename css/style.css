@@ -1,7 +1,8 @@
-.img-Logo{
-    width: 45rem;
-    height: 30rem;
+body{
+    margin: 0;
 }
 .div-View{
-    background-image: url("./img/TeSTAR_logo.png");
+    width: 100vw;
+    height: 100vh;
+    background: url("./img/TeSTAR_logo.png");
 }
