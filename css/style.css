@@ -1,4 +1,7 @@
 .img-Logo{
-    width: 40rem;
+    width: 45rem;
     height: 30rem;
+}
+.div-View{
+    background-image: url("./img/TeSTAR_logo.png");
 }
